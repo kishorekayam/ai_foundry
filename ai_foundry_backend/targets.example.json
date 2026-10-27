@@ -1,0 +1,5 @@
+[
+  {"id":"pg-placement-test","label":"Placement test DB (PostgreSQL)","dbType":"postgresql","host":"localhost","port":5432,"database":"placement_test_db","loadAllowed":true,"usernameEnv":"PG_PLACEMENT_USER","passwordEnv":"PG_PLACEMENT_PASSWORD","ssl":"prefer"},
+  {"id":"mysql-retail-test","label":"Retail test DB (MySQL)","dbType":"mysql","host":"localhost","port":3306,"database":"retail_test_db","loadAllowed":false,"usernameEnv":"MYSQL_RETAIL_USER","passwordEnv":"MYSQL_RETAIL_PASSWORD"},
+  {"id":"mongo-support-test","label":"Support test DB (MongoDB)","dbType":"mongodb","host":"localhost","port":27017,"database":"support_test_db","loadAllowed":false,"usernameEnv":"MONGO_SUPPORT_USER","passwordEnv":"MONGO_SUPPORT_PASSWORD"}
+]
