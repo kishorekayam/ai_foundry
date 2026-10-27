@@ -5,3 +5,4 @@ data/
 targets.json
 .pytest_cache/
 active-development/
+.aiven-ca.pem
