@@ -1,3 +1,4 @@
+// src/lib/openapi.ts
 import * as yaml from 'js-yaml'
 
 export interface Endpoint {

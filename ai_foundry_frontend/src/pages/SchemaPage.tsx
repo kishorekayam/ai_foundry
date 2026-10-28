@@ -1,3 +1,4 @@
+// src/pages/SchemaPage.tsx
 import { KeyRound, Link2, Plus } from 'lucide-react'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'

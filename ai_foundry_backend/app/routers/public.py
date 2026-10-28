@@ -1,3 +1,4 @@
+# app/routers/public.py
 """Public API consumed by the React app (contract: src/api/httpApi.ts)."""
 from __future__ import annotations
 

@@ -1,3 +1,4 @@
+# app/ai.py
 """Hosted-LLM layer (OpenAI GPT-4o). The model only returns structured JSON; Python validates it against the discovered schema.
 
 The LLM never sees credentials and never executes SQL. If it is unavailable or returns something invalid, the

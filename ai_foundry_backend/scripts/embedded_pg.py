@@ -1,3 +1,4 @@
+# scripts/embedded_pg.py
 """Throw-away PostgreSQL with the empty placement_test_db schema, to use as a *user database* while the API runs
 against the real Aiven MySQL registry.
 

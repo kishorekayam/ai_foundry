@@ -1,3 +1,4 @@
+# app/engine/apisource.py
 """Reads the user's real API description (Postman collection v2.x or OpenAPI/Swagger) into a flat list of endpoints.
 
 Test cases are written against these endpoints, never against names invented from table names. The database schema is

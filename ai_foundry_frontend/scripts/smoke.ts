@@ -1,3 +1,4 @@
+// scripts/smoke.ts
 // Headless smoke test of the in-browser demo engine: npx tsx scripts/smoke.ts
 import { mockApi as api } from '../src/api/mock/mockApi'
 import type { JobConfig } from '../src/types'

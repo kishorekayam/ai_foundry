@@ -1,3 +1,4 @@
+// src/components/DataPreview.tsx
 import { useQuery } from '@tanstack/react-query'
 import clsx from 'clsx'
 import { ChevronLeft, ChevronRight, Link2 } from 'lucide-react'

@@ -1,3 +1,4 @@
+# app/models.py
 """Pydantic models. JSON is camelCase on the wire so the React app (src/types.ts) works unchanged."""
 from __future__ import annotations
 

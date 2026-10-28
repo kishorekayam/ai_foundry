@@ -1,3 +1,4 @@
+# app/engine/samples.py
 """Optional, read-only sampling of a few existing rows. Used only to give test cases values that are valid in the real
 database (existing parent ids, existing unique values for duplicate tests). Nothing is written."""
 from __future__ import annotations

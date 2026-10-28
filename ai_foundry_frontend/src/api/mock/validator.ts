@@ -1,3 +1,4 @@
+// src/api/mock/validator.ts
 import type { Column, Row, Scenario, ScenarioCoverage, Schema, TestCase, ValidationCheck } from '../../types'
 import { isDate, isInt, isNum, isText, parseRange, type Dataset } from './engine'
 

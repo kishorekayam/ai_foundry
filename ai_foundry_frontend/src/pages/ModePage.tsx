@@ -1,3 +1,4 @@
+// src/pages/ModePage.tsx
 import { useMutation } from '@tanstack/react-query'
 import clsx from 'clsx'
 import { FlaskConical, Sparkles, Upload, Zap } from 'lucide-react'

@@ -1,3 +1,4 @@
+// src/api/index.ts
 import { httpApi } from './httpApi'
 import { mockApi } from './mock/mockApi'
 import type { Api } from './types'

@@ -1,3 +1,4 @@
+# app/engine/generator.py
 """Synthetic data generation core shared by all three modes.
 
 Faker supplies names/e-mails/dates, NumPy the numeric distributions, NetworkX the parent-child ordering.

@@ -1,3 +1,4 @@
+# app/targets.py
 """Approved test connections.
 
 Source of truth is the MySQL registry (shared with Boomi) when REGISTRY_DB_URL / MYSQL_* is configured; otherwise

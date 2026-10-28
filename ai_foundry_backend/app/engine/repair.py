@@ -1,3 +1,4 @@
+# app/engine/repair.py
 """Self-healing pass: after generation every rule that can be derived from the metadata is re-checked and, where a
 value breaks it, repaired. Rows that cannot be made valid are removed and reported, so the final dataset never
 contains a violation. Works from the discovered schema only (no table or column names are known here)."""

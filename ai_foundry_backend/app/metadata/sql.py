@@ -1,3 +1,4 @@
+# app/metadata/sql.py
 """Approved, read-only metadata queries.
 
 Each query returns exactly ONE row with ONE text column (`metadata`) holding the whole schema as JSON.

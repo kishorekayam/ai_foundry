@@ -1,3 +1,4 @@
+// src/pages/HowItWorksPage.tsx
 import { ArrowRight } from 'lucide-react'
 import { Card, CardHeader, LayerBadge, PageHeader } from '../components/ui'
 

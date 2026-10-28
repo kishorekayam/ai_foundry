@@ -1,3 +1,4 @@
+// src/components/Layout.tsx
 import clsx from 'clsx'
 import { Check, ShieldCheck } from 'lucide-react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'

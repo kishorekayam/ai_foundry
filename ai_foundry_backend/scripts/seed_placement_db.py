@@ -1,3 +1,4 @@
+# scripts/seed_placement_db.py
 """Create placement_test_db (empty tables) and its least-privilege user on an existing PostgreSQL server.
 
     set PGADMIN_URL=postgresql+psycopg://postgres:<admin-password>@localhost:5432/postgres

@@ -1,3 +1,4 @@
+# app/metadata/normalize.py
 """Turn raw metadata JSON (from the Boomi process or the Python adapter) into the unified Schema model."""
 from __future__ import annotations
 

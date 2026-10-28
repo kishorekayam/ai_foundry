@@ -1,3 +1,4 @@
+# tests/test_registry_and_ai.py
 import json
 
 import pytest

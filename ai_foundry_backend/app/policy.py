@@ -1,3 +1,4 @@
+# app/policy.py
 """Destination policy for user-entered database connections.
 
 Users may connect their own test databases, but the platform must not become a way to probe internal networks.

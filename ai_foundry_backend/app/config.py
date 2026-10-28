@@ -1,3 +1,4 @@
+# app/config.py
 """Runtime configuration. Everything comes from environment variables (or a .env file in the backend folder)."""
 from __future__ import annotations
 

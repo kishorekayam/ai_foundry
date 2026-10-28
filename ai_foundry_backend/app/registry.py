@@ -1,3 +1,4 @@
+# app/registry.py
 """Common registry database (MySQL) shared by Python and Boomi.
 
 * registered_targets: the approved test connections. Passwords/URIs are Fernet-encrypted; Boomi reads only the

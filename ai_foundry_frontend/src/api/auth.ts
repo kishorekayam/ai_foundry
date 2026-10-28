@@ -1,3 +1,4 @@
+// src/api/auth.ts
 /**
  * HTTP Basic credentials shared by every API call (same pair the backend and Boomi use).
  * They live in sessionStorage only (cleared when the tab closes) and are never logged.

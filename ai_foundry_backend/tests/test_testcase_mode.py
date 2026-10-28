@@ -1,3 +1,4 @@
+# tests/test_testcase_mode.py
 """Mode 3 works from the user's real collection: correct endpoints, no generated records, zero rule violations in 'valid' cases."""
 import json
 import time

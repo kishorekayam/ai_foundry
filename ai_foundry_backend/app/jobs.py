@@ -1,3 +1,4 @@
+# app/jobs.py
 """Generation job runner. Each stage does real work; progress is what the React app polls."""
 from __future__ import annotations
 

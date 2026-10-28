@@ -1,3 +1,4 @@
+# app/metadata/service.py
 """Schema discovery orchestration: Boomi Process A when configured, otherwise the Python adapter directly."""
 from __future__ import annotations
 

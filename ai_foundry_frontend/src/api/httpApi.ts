@@ -1,3 +1,4 @@
+// src/api/httpApi.ts
 import { AUTH_EVENT, authHeader } from './auth'
 import type { Api } from './types'
 

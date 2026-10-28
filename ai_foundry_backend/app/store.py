@@ -1,3 +1,4 @@
+# app/store.py
 """Job and load stores: in memory, mirrored to JSON files so a restart (e.g. Render free tier sleeping) keeps datasets."""
 from __future__ import annotations
 

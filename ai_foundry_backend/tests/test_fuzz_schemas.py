@@ -1,3 +1,4 @@
+# tests/test_fuzz_schemas.py
 """Property test: random, completely different schemas must generate with ZERO failed checks and load cleanly.
 
 No schema is hand-written here. A seeded generator builds tables with random column types, primary keys (serial,

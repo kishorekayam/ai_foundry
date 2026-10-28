@@ -1,3 +1,4 @@
+// src/lib/download.ts
 export function saveBlob(blob: Blob, filename: string) {
   const url = URL.createObjectURL(blob)
   const a = document.createElement('a')

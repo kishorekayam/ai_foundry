@@ -1,3 +1,4 @@
+// src/components/ReportPanels.tsx
 import { useMutation } from '@tanstack/react-query'
 import clsx from 'clsx'
 import { AlertTriangle, CheckCircle2, ChevronDown, MinusCircle, XCircle } from 'lucide-react'

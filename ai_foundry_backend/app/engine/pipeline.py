@@ -1,3 +1,4 @@
+# app/engine/pipeline.py
 """Generation pipeline: schema -> rules -> dependency graph -> parents -> children -> scenarios -> validate."""
 from __future__ import annotations
 

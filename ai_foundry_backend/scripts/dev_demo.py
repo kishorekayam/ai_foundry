@@ -1,3 +1,4 @@
+# scripts/dev_demo.py
 """Run the whole backend against a throw-away embedded PostgreSQL (no install, no credentials needed).
 
     .venv\\Scripts\\python scripts\\dev_demo.py        # API on http://localhost:8000, Ctrl+C to stop

@@ -1,3 +1,4 @@
+// src/store/workflow.tsx
 import { createContext, useContext, useMemo, useState, type ReactNode } from 'react'
 import type { ConnectionResult, GenMode, JobConfig, Schema } from '../types'
 

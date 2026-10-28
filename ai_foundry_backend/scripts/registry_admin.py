@@ -1,3 +1,4 @@
+# scripts/registry_admin.py
 """Administer the common MySQL registry (approved targets + encrypted credentials).
 
     python scripts/registry_admin.py genkey               # appends REGISTRY_ENCRYPTION_KEY to .env if missing (never printed)

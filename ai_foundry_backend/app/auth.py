@@ -1,3 +1,4 @@
+# app/auth.py
 """Common HTTP Basic authentication for every API (public /api/*, internal /internal/*).
 
 One credential pair (API_USERNAME / API_PASSWORD) is shared by the React app, Boomi and this service.

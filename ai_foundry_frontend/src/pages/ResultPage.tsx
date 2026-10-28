@@ -1,3 +1,4 @@
+// src/pages/ResultPage.tsx
 import { useQuery } from '@tanstack/react-query'
 import { CheckCircle2, Download } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'

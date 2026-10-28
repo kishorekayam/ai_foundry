@@ -1,3 +1,4 @@
+# app/engine/tc_planner.py
 """Test-case planner for Mode 3. Cases are written against the endpoints of the user's Postman collection / OpenAPI file.
 The database schema (and optionally a few existing rows) tells us which fields are required, unique, bounded or enums.
 No records are generated, so there is nothing to load and no key or type conflicts can occur."""

@@ -1,3 +1,4 @@
+// src/App.tsx
 import type { ReactElement } from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'

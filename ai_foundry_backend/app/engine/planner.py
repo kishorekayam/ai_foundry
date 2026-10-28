@@ -1,3 +1,4 @@
+# app/engine/planner.py
 """Rule-based planners. They produce the same structures the LLM must return, so the pipeline is identical
 whether the plan comes from Gemini or from these rules (used when the AI service is unavailable)."""
 from __future__ import annotations

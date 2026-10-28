@@ -1,3 +1,4 @@
+// src/api/mock/schemas.ts
 import type { ApprovedTarget, Column, ForeignKey, Schema, Table } from '../../types'
 
 export const APPROVED_TARGETS: ApprovedTarget[] = [

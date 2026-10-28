@@ -1,3 +1,4 @@
+// src/api/mock/mockApi.ts
 import type {
   Blueprint,
   ConnectionRequest,

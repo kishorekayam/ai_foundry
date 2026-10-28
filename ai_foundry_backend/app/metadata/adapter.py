@@ -1,3 +1,4 @@
+# app/metadata/adapter.py
 """Python metadata adapters (metadata only, never table rows).
 
 Used (a) by the /internal/mongo/metadata endpoint that Boomi calls for MongoDB, and

@@ -1,3 +1,4 @@
+# app/loader.py
 """Python database adapter for approved loads: parameterized inserts, parents first, in batches, then verification."""
 from __future__ import annotations
 

@@ -1,3 +1,4 @@
+// src/components/LoginGate.tsx
 import { LockKeyhole } from 'lucide-react'
 import { useCallback, useEffect, useState, type FormEvent, type ReactNode } from 'react'
 import { api } from '../api'

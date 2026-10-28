@@ -1,3 +1,4 @@
+-- scripts/seed_placement_db.sql
 -- Empty test schema for ATOM DATA FOUNDRY (PostgreSQL). Contains no rows: the platform generates the data.
 -- Run against a disposable database, e.g.:  psql -U postgres -c "CREATE DATABASE placement_test_db"
 --                                            psql -U postgres -d placement_test_db -f scripts/seed_placement_db.sql

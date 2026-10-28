@@ -1,3 +1,4 @@
+// src/api/mock/ai.ts
 import type { Blueprint, JobConfig, Scenario, Schema, Table, TableCount, TestCase, TestCategory } from '../../types'
 import { isDate, isInt, isNum, isText, parseRange, type GenContext } from './engine'
 

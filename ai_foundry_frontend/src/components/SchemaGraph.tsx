@@ -1,3 +1,4 @@
+// src/components/SchemaGraph.tsx
 import { Background, Controls, Handle, MarkerType, Position, ReactFlow, type Edge, type Node, type NodeProps } from '@xyflow/react'
 import clsx from 'clsx'
 import { KeyRound, Link2 } from 'lucide-react'
