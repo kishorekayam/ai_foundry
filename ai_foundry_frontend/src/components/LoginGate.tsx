@@ -57,7 +57,7 @@ export default function LoginGate({ children }: { children: ReactNode }) {
       <Card className="w-full max-w-sm">
         <form onSubmit={submit} className="space-y-4 p-6">
           <div className="flex items-center gap-3">
-            <Logo size={36} />
+            <Logo size={52} />
             <div>
               <div className="text-sm font-bold tracking-wide">ATOM DATA FOUNDRY</div>
               <div className="flex items-center gap-1 text-xs text-slate-500"><LockKeyhole className="size-3" /> Sign in to the API</div>

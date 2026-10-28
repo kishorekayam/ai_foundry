@@ -17,16 +17,8 @@ export const STEPS = [
   { path: '/result', label: 'Result', n: '8' },
 ]
 
-export function Logo({ size = 28 }: { size?: number }) {
-  return (
-    <svg width={size} height={size} viewBox="0 0 32 32" aria-hidden>
-      <rect width="32" height="32" rx="8" fill="#0f52ba" />
-      <circle cx="16" cy="16" r="3.2" fill="#fff" />
-      {[0, 60, 120].map((r) => (
-        <ellipse key={r} cx="16" cy="16" rx="11" ry="4.5" fill="none" stroke="#fff" strokeWidth="1.6" transform={`rotate(${r} 16 16)`} />
-      ))}
-    </svg>
-  )
+export function Logo({ size = 40 }: { size?: number }) {
+  return <img src="/logo.png" alt="ESI logo" width={size} height={size} className="shrink-0 object-contain" />
 }
 
 export default function Layout() {
